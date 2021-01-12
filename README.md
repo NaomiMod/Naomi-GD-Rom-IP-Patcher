@@ -1,6 +1,6 @@
 # Naomi-GD-Rom-IP-Patcher
 
-This simple tool will patch `IP.bin` for rebuilding a Naomi .GDI with `Rebuild GDI's v1.2`.
+This simple tool will patch `IP.bin` , making it compatible with `Rebuild GDI's v1.2`.  
 
 Long story short you will be able to modify any Naomi game binary file, and pack it back with `chdman` into a .CHD to run on Emulator.
 
