@@ -30,10 +30,12 @@ Open the program and locate `IP.bin` in `/bootsector` folder, it will patch + cr
 2) Drag the "GAME-Extracted" folder on Build GDI Image.bat, and it will rebuild the gdi automatically
 3) Recompress the gdi with (*example* `chdman.exe createcd -i monkeyball.GDI -o GDS-0008.CHD`
 
+
 - I cannot see the game data in game binary!
 
 Naomi GD roms does not use a filesystem akin to DC, all game resources are usually packed into a huge binary file with decryption on top.
 You can decrypt/encrypt the binary by using `GD-Rom explorer`providing the appropriate DES key.
+
 
 # Legal disclaimer:
 
