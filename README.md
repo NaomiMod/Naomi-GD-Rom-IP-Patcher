@@ -1,12 +1,13 @@
 # Naomi-GD-Rom-IP-Patcher
 
 This simple tool will patch `IP.bin` for rebuilding a Naomi .GDI with `Rebuild GDI's v1.2`.
+
 Long story short you will be able to modify any Naomi game binary file, and pack it back with `chdman` into a .CHD to run on Emulator.
 
 
 # Requirements:
 
-`Python` installed in your system to run .py OR `python39.dll` in the executable folder.
+`Python` installed OR `python39.dll` in the executable folder.
 
 
 # How to use:
