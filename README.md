@@ -35,5 +35,5 @@ You can decrypt the binary by using GD-Rom explorer or Descrypt providing the ap
 
 # Legal disclaimer:
 
-This project is intended exclusively for educational purposes and has no affiliation with SEGA or any other third party / tools developer. NaomiLib format, Naomi-GD-Rom-IP-Patcher, NLOBJPUT and games using it are exlusive property of SEGA. Blender NaomiLib importer Addon is a recreative project, no compensation has been offered for research and will not be accepted in any form.
+This project is intended exclusively for educational purposes and has no affiliation with SEGA or any other third party / tools developer. NaomiLib format, Naomi-GD-Rom-IP-Patcher, NLOBJPUT and games using it are exlusive property of SEGA. Naomi-GD-Rom-IP-Patcher is a recreative project, no compensation has been offered for research and will not be accepted in any form.
 
